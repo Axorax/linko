@@ -1,0 +1,13 @@
+{
+    "using": "js",
+    "redirects": {
+        "youtube": {
+            "url": "https://youtube.com/",
+            "title": "ad",
+            "name": "hello",
+            "description": "1st line here\n2nd line. No indents btw.\n    this line has indent",
+            "image": "https://example.com/image.png"
+        },
+        "insta": "https://instagram.com/"
+    }
+}

@@ -1,0 +1,16 @@
+using = js # Use JavaScript to redirect
+
+[redirects]
+
+youtube = https://youtube.com/
+[
+    adad = awd
+    adawd = awd
+    awd = [
+        awd
+        awdaawd
+        awd
+    ]
+]
+
+insta = https://instagram.com/ he
